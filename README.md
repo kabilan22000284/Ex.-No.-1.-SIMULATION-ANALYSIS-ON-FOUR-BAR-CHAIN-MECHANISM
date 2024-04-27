@@ -53,8 +53,8 @@
 
 
 ## Output:
-### Name: ALAGU NACHIYAR K
-### Register Number: 212222240006
+### Name: KABILAN V
+### Register Number: 212222100018
 ![image](https://github.com/23008344/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742655/2efd992a-a5e8-4aae-9347-0760c5bd2c5a)
 
 
